@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--**ZulyarKurban/ZulyarKurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
+<!--
+**ZulyarKurban/ZulyarKurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on App Development/Devops/Test Automation
 - 🌱 I’m currently learning Python
