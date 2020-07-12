@@ -6,9 +6,15 @@
 
 <table>
   <thead>
-   Programming Languages
+   Programming Languages:
     </thead>
       <thead>
       Java, JavaScript
+    </thead>
+    <thead>
+  Database:
+    </thead>
+      <thead>
+      Sql, Mysql, PostgreSQL
     </thead>
   </table>
