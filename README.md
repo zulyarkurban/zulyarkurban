@@ -1,5 +1,5 @@
-### Hey 👋🏽, I'm #Zulyar Kurban
-Hi, I'm Zulyar Kurban, a SDET & DevOps Engineer 🚀 from USA. 
+### Hey 👋🏽, I'm #Kuerwan Zuliyaer
+Hi, I'm Kuerwan Zuliyaer, a SDET & DevOps Engineer 🚀 from USA. 
 
 
 - 👨🏽‍💻 I’m currently working on Test Automation & DevOps;
