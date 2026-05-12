@@ -4,7 +4,7 @@ Hi, I'm Zulyar, a SDET & DevOps Engineer 🚀 from USA.
 
 - 👨🏽‍💻 I’m currently working on Test Automation & DevOps;
 - 🌱 I’m currently learning VueJs;
-- 📫 How to reach me: z.kuerwan@gmail.com;
+- 📫 How to reach me: WIP;
 - 📝 [Resume](https://www.izden.cc/resume/)
 
 ### 🛠 &nbsp;Tech Stack
